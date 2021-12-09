@@ -14,5 +14,5 @@ https://flutterbyexample.com/
 <script src="//onlinegdb.com/embed/js/eoWnJrRAL?theme=dark"></script>
 ##video
 
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js "></script>
 
