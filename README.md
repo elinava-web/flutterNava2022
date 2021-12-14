@@ -29,3 +29,5 @@ https://www.youtube.com/watch?v=svQOxQde0bg
 https://github.com/dastagir-ahmed/carousel
 
 https://www.dbestech.com/tutorials/flutter-pageview-builder-advanced-vertical-animation-height-scaling-and-transition
+
+https://github.com/YazeedAlKhalaf/Flutter_Installer
